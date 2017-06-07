@@ -1,3 +1,9 @@
+# Warning
+
+This is a temporary project branch with hopes of being eventually merged into vue-moment project.
+
+But for those who like myself need vue-moment with timezone support before the merge/pull is accepted or complete, feel free to use here.
+
 # vue-moment
 
 Handy [Moment.js](http://www.momentjs.com) filters for your [Vue.js](http://vuejs.org/) project. With timezone integration.
