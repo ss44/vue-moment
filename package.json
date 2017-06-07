@@ -1,8 +1,8 @@
 {
   "name": "vue-moment-tz",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Handy Moment-timezone.js filters for your Vue.js project.",
-  "main": "vue-moment-tz.js",
+  "main": "vue-moment.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
